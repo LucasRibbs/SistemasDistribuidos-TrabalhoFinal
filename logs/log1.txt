@@ -1,0 +1,84 @@
+
+
+----
+nprocs : 1
+nfiles : 2
+duracao: 1.3160226345062256
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt']]
+
+
+----
+nprocs : 1
+nfiles : 4
+duracao: 2.855421781539917
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt', './source files/names-ES.txt', './source files/names-FR.txt']]
+
+
+----
+nprocs : 1
+nfiles : 8
+duracao: 6.766067028045654
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt', './source files/names-ES.txt', './source files/names-FR.txt', './source files/names-IT.txt', './source files/names-PT.txt', './source files/names-RU.txt', './source files/names-TR.txt']]
+
+
+----
+nprocs : 2
+nfiles : 2
+duracao: 0.805433988571167
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt']]
+
+
+----
+nprocs : 2
+nfiles : 4
+duracao: 1.4682857990264893
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt'], ['./source files/names-ES.txt', './source files/names-FR.txt']]
+
+
+----
+nprocs : 2
+nfiles : 8
+duracao: 3.1924378871917725
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt', './source files/names-ES.txt', './source files/names-FR.txt'], ['./source files/names-IT.txt', './source files/names-PT.txt', './source files/names-RU.txt', './source files/names-TR.txt']]
+
+
+----
+nprocs : 4
+nfiles : 2
+duracao: 0.8054380416870117
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt'], [], []]
+
+
+----
+nprocs : 4
+nfiles : 4
+duracao: 0.9021131992340088
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt'], ['./source files/names-ES.txt'], ['./source files/names-FR.txt']]
+
+
+----
+nprocs : 4
+nfiles : 8
+duracao: 1.5156440734863281
+files  : [['./source files/names-DE.txt', './source files/names-EN.txt'], ['./source files/names-ES.txt', './source files/names-FR.txt'], ['./source files/names-IT.txt', './source files/names-PT.txt'], ['./source files/names-RU.txt', './source files/names-TR.txt']]
+
+
+----
+nprocs : 8
+nfiles : 2
+duracao: 0.8028569221496582
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt'], [], [], [], [], [], []]
+
+
+----
+nprocs : 8
+nfiles : 4
+duracao: 1.061004400253296
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt'], ['./source files/names-ES.txt'], ['./source files/names-FR.txt'], [], [], [], []]
+
+
+----
+nprocs : 8
+nfiles : 8
+duracao: 1.483922004699707
+files  : [['./source files/names-DE.txt'], ['./source files/names-EN.txt'], ['./source files/names-ES.txt'], ['./source files/names-FR.txt'], ['./source files/names-IT.txt'], ['./source files/names-PT.txt'], ['./source files/names-RU.txt'], ['./source files/names-TR.txt']]
